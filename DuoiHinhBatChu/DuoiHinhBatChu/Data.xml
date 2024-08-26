@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Players>
+  <Player Id="1">
+    <Name>Mark</Name>
+    <TotalMarks>830</TotalMarks>
+  </Player>
+  <Player Id="2">
+    <Name>Rosy</Name>
+    <TotalMarks>725</TotalMarks>
+  </Player>
+  <Player Id="3">
+    <Name>Anh Nhan</Name>
+    <TotalMarks>655</TotalMarks>
+  </Player>
+  <Player Id="4">
+    <Name>Nam</Name>
+    <TotalMarks>200</TotalMarks>
+  </Player>
+  <Player Id="5">
+    <Name>Nhân</Name>
+    <TotalMarks>800</TotalMarks>
+  </Player>
+  <Player Id="6">
+    <Name>Hậu</Name>
+    <TotalMarks>8440</TotalMarks>
+  </Player>
+  <Player Id="7">
+    <Name>abc</Name>
+    <TotalMarks>0</TotalMarks>
+  </Player>
+</Players>
